@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\SimpleSnake\\SimpleSnake.csproj": {}
+    "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\Snake\\SimpleSnake\\SimpleSnakeExercise\\SimpleSnake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\SimpleSnake\\SimpleSnake.csproj": {
+    "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\Snake\\SimpleSnake\\SimpleSnakeExercise\\SimpleSnake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\SimpleSnake\\SimpleSnake.csproj",
+        "projectUniqueName": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\Snake\\SimpleSnake\\SimpleSnakeExercise\\SimpleSnake.csproj",
         "projectName": "SimpleSnake",
-        "projectPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\SimpleSnake\\SimpleSnake.csproj",
+        "projectPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\Snake\\SimpleSnake\\SimpleSnakeExercise\\SimpleSnake.csproj",
         "packagesPath": "C:\\Users\\Yusmen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\SimpleSnake\\obj\\",
+        "outputPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\Snake\\SimpleSnake\\SimpleSnakeExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yusmen\\AppData\\Roaming\\NuGet\\NuGet.Config",

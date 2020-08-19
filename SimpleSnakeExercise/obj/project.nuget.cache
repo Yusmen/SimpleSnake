@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ojdA33vWhxgGQfBQTnxOrJlB3xxRgPkGqWt2FMSHVwziZspzbtX4VFme+mGT2cQT334Ssuh9YYX0GCxzUkS+Eg==",
+  "dgSpecHash": "58fgMfexOkf/Q6Cyjl7alEnvaF6B1+CV8jOwpMvzViC66BF/YYFbvikerPGHVgGeYM0C2xKvpx8GHIqP1BJYEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\SimpleSnake\\SimpleSnake.csproj",
+  "projectFilePath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\Snake\\SimpleSnake\\SimpleSnakeExercise\\SimpleSnake.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Yusmen\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
