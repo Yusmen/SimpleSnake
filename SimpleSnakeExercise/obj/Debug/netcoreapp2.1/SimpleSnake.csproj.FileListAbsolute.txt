@@ -33,3 +33,15 @@ C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleS
 C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\netcoreapp2.1\SimpleSnake.dll
 C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\netcoreapp2.1\SimpleSnake.pdb
 C:\Users\Yusmen\Desktop\C#\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\netcoreapp2.1\SimpleSnake.genruntimeconfig.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.AssemblyReference.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\netcoreapp2.1\SimpleSnake.genruntimeconfig.cache

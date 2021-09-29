@@ -1,31 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\Snake\\SimpleSnake\\SimpleSnakeExercise\\SimpleSnake.csproj": {}
+    "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\OOP Basics\\Zadachi_Resheniq\\Snake\\SimpleSnake\\SimpleSnakeExercise\\SimpleSnake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\Snake\\SimpleSnake\\SimpleSnakeExercise\\SimpleSnake.csproj": {
+    "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\OOP Basics\\Zadachi_Resheniq\\Snake\\SimpleSnake\\SimpleSnakeExercise\\SimpleSnake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\Snake\\SimpleSnake\\SimpleSnakeExercise\\SimpleSnake.csproj",
+        "projectUniqueName": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\OOP Basics\\Zadachi_Resheniq\\Snake\\SimpleSnake\\SimpleSnakeExercise\\SimpleSnake.csproj",
         "projectName": "SimpleSnake",
-        "projectPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\Snake\\SimpleSnake\\SimpleSnakeExercise\\SimpleSnake.csproj",
-        "packagesPath": "C:\\Users\\Yusmen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yusmen\\Desktop\\C#\\OOP Basics\\Zadachi_Resheniq\\Snake\\SimpleSnake\\SimpleSnakeExercise\\obj\\",
+        "projectPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\OOP Basics\\Zadachi_Resheniq\\Snake\\SimpleSnake\\SimpleSnakeExercise\\SimpleSnake.csproj",
+        "packagesPath": "C:\\Users\\mojit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mojit\\OneDrive\\Работен плот\\.NET\\OOP Basics\\Zadachi_Resheniq\\Snake\\SimpleSnake\\SimpleSnakeExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yusmen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mojit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -36,15 +37,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            }
-          },
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

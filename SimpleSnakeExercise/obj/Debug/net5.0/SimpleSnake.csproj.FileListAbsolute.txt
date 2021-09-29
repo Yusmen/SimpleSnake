@@ -1,0 +1,16 @@
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\bin\Debug\net5.0\SimpleSnake.exe
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\bin\Debug\net5.0\SimpleSnake.deps.json
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\bin\Debug\net5.0\SimpleSnake.runtimeconfig.json
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\bin\Debug\net5.0\SimpleSnake.runtimeconfig.dev.json
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\bin\Debug\net5.0\SimpleSnake.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\bin\Debug\net5.0\ref\SimpleSnake.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\bin\Debug\net5.0\SimpleSnake.pdb
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\net5.0\SimpleSnake.csproj.AssemblyReference.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\net5.0\SimpleSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\net5.0\SimpleSnake.AssemblyInfoInputs.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\net5.0\SimpleSnake.AssemblyInfo.cs
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\net5.0\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\net5.0\SimpleSnake.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\net5.0\ref\SimpleSnake.dll
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\net5.0\SimpleSnake.pdb
+C:\Users\mojit\OneDrive\Работен плот\.NET\OOP Basics\Zadachi_Resheniq\Snake\SimpleSnake\SimpleSnakeExercise\obj\Debug\net5.0\SimpleSnake.genruntimeconfig.cache
